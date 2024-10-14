@@ -1,0 +1,1 @@
+El script corresponde al script de la clase 6 de la cursada. Recibe el archivo "competencia_01.csv". No es necesario correr más allá de la celda 
